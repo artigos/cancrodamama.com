@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  {% if page.url == "/404.html" %}
+    <meta http-equiv="refresh" content="5; url=/">
+  {% endif %}
+  <link rel="stylesheet" href="{{ site.url }}/css/normalize.css" />
+  <link rel="stylesheet" href="{{ site.url }}/css/gridism.css" />
+  <link rel="stylesheet" href="{{ site.url }}/css/style.css" />
+  <link rel="stylesheet" href="{{ site.url }}/css/pygments.css" />
+
+  <link rel="shortcut icon" href="{{ site.url }}/assets/favicon.ico">
+  <link rel="icon" sizes="16x16 32x32 64x64" href="{{ site.url }}/assets/favicon.ico">
+  <link rel="icon" type="image/png" sizes="196x196" href="{{ site.url }}/assets/favicon-192.png">
+  <link rel="icon" type="image/png" sizes="160x160" href="{{ site.url }}/assets/favicon-160.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="{{ site.url }}/assets/favicon-96.png">
+  <link rel="icon" type="image/png" sizes="64x64" href="{{ site.url }}/assets/favicon-64.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/assets/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/assets/favicon-16.png">
+  <link rel="apple-touch-icon" href="{{ site.url }}/assets/favicon-57.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="{{ site.url }}/assets/favicon-114.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="{{ site.url }}/assets/favicon-72.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="{{ site.url }}/assets/favicon-144.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="{{ site.url }}/assets/favicon-60.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="{{ site.url }}/assets/favicon-120.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="{{ site.url }}/assets/favicon-76.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="{{ site.url }}/assets/favicon-152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/assets/favicon-180.png">
+  <meta name="msapplication-TileColor" content="#FFFFFF">
+  <meta name="msapplication-TileImage" content="{{ site.url }}/assets/favicon-144.png">
+  <meta name="msapplication-config" content="{{ site.url }}/assets/browserconfig.xml">
+
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700">
+  <script src="{{ site.url }}/js/modernizr.js"></script>
+  <!--[if lt IE 9]>
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  {% include addthis-smart-layers.html %}
+</head>
