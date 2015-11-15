@@ -12,7 +12,7 @@ category: mamografia
 <h1>Excisão de tumor </h1> 
 <table width="100%" border="0" cellpadding="10" cellspacing="5"> 
  <tr> 
-  <td bgcolor="#edeeef"><img src="http://www.cancrodamama.com/wp-content/uploads/2011/06/estadiamento_clip_image002.jpg" alt="" title="estadiamento_clip_image002" width="127" height="113" class="alignnone size-full wp-image-139" /></td> 
+  <td bgcolor="#edeeef"><img src="http://www.cancrodamama.com/assets/2011/06/estadiamento_clip_image002.jpg" alt="" title="estadiamento_clip_image002" width="127" height="113" class="alignnone size-full wp-image-139" /></td> 
   <td bgcolor="#edeeef">Os cancros da mama diagnosticados na fase de carcinoma in situ, fase I e fase II curam-se muitas vezes por excisão. Para além de uma pequena cicatriz, não há grande modificação da aparência do seio afectado.</td> 
  </tr> 
 </table> 

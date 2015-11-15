@@ -6,7 +6,7 @@ category: mamografia
 
 #{{ page.title }}
 
-<img class="alignnone size-full wp-image-30" title="mamografia" src="http://www.cancrodamama.com/wp-content/uploads/2011/06/mamografia.jpg" alt="" width="425" height="282" />
+<img class="alignnone size-full wp-image-30" title="mamografia" src="http://www.cancrodamama.com/assets/2011/06/mamografia.jpg" alt="" width="425" height="282" />
 A mamografia, ou radiografia da mama, consegue detectar o cancro da mama antes de se sentir qualquer caroço à palpação.
 
 No procedimento que aqui se apresenta, coloca-se um seio de cada vez sobre uma chapa fotográfica para raio X e utiliza-se uma cobertura plástica para achatar o seio suavemente contra a placa.
@@ -19,7 +19,7 @@ Tiram-se normalmente duas ou três chapas, de ângulos diferentes.
 <td bgcolor="#edeeef">
 <h2>Seio normal</h2>
 </td>
-<td bgcolor="#edeeef"><img class="size-full wp-image-24 " title="mamografia_clip_image004" src="http://www.cancrodamama.com/wp-content/uploads/2011/06/mamografia_clip_image004.jpg" alt="Seio normal" width="127" height="151" /></td>
+<td bgcolor="#edeeef"><img class="size-full wp-image-24 " title="mamografia_clip_image004" src="http://www.cancrodamama.com/assets/2011/06/mamografia_clip_image004.jpg" alt="Seio normal" width="127" height="151" /></td>
 <td bgcolor="#edeeef">Este mamograma apresenta um seio normal.
 
 As áreas mais densas, brancas, são os canais galactóforos.</td>
@@ -28,7 +28,7 @@ As áreas mais densas, brancas, são os canais galactóforos.</td>
 <td bgcolor="#edeeef">
 <h2>Tumor do seio</h2>
 </td>
-<td bgcolor="#edeeef"><img class="size-full wp-image-25" title="mamografia_clip_image006" src="http://www.cancrodamama.com/wp-content/uploads/2011/06/mamografia_clip_image006.jpg" alt="Tumor do seio" width="127" height="151" /></td>
+<td bgcolor="#edeeef"><img class="size-full wp-image-25" title="mamografia_clip_image006" src="http://www.cancrodamama.com/assets/2011/06/mamografia_clip_image006.jpg" alt="Tumor do seio" width="127" height="151" /></td>
 <td bgcolor="#edeeef">A área branca densa no fundo deste mamograma indica um tumor.
 
 Torna-se necessária uma biopsia a fim de determinar se é canceroso.</td>

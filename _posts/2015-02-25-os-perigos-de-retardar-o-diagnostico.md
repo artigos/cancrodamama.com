@@ -8,7 +8,7 @@ category: cancro da mama
 
 Maria sempre tivera receio de examinar os seios a fim de detectar modificações. Há algum tempo que tinha a impressão de ter os seios diferentes. Mas não conseguia resolver-se a ir ao médico, pois tinha medo do que ele pudesse encontrar. Um dia, ao vestir-se, reparou que a pele do peito metia para dentro, quando levantava os braços. Depois de semanas de hesitação, decidiu-se a consultar o médico.
 
-<img class="alignleft size-full wp-image-122" style="margin-right: 20px;" title="casos-clinicos_2" src="http://www.cancrodamama.com/wp-content/uploads/2011/06/casos-clinicos_2.jpg" alt="" width="186" height="250" />
+<img class="alignleft size-full wp-image-122" style="margin-right: 20px;" title="casos-clinicos_2" src="http://www.cancrodamama.com/assets/2011/06/casos-clinicos_2.jpg" alt="" width="186" height="250" />
 <h1>Dados Pessoais</h1>
 Nome: Maria dos Anjos
 Idade: 54

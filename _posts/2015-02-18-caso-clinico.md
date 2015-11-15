@@ -8,7 +8,7 @@ category: auto-exame
 
 Ao tomar banho de chuveiro, Augusta tacteou um caroço pequeno e firme na parte superior externa do seio direito. Há já alguns anos que tinha por hábito fazer o exame mensal de ambos os seios e estava familiarizada com a sua forma e  palpação. No entanto, nunca tinha dado por aquele caroço, pelo que decidiu consultar o médico de imediato.
 <h1>Dados Pessoais:</h1>
-<img class="alignleft size-full wp-image-99" style="margin-right: 20px;" title="cancro_da_mama_caso_clinico" src="http://www.cancrodamama.com/wp-content/uploads/2011/06/cancro_da_mama_caso_clinico.jpg" alt="" width="211" height="265" />
+<img class="alignleft size-full wp-image-99" style="margin-right: 20px;" title="cancro_da_mama_caso_clinico" src="http://www.cancrodamama.com/assets/2011/06/cancro_da_mama_caso_clinico.jpg" alt="" width="211" height="265" />
 
 Nome: Augusta Reis
 
@@ -24,7 +24,7 @@ O inédico examinou-lhe ambos os seios. Não verificou covas na pele mas consegu
 
 O médico informou Augusta de que terá de fazer uma mamografia, marcando-a para o mesmo dia; o exame confirmou que há uma pequena massa, bem localizada, pelo que lhe aconselhou uma biopsia imediata, a qual foi executada na consulta externa do hospital.
 <h1>Diagnóstico e tratamento</h1>
-<img class="alignnone size-full wp-image-100" title="caso-clinico-2_clip_image002" src="http://www.cancrodamama.com/wp-content/uploads/2011/06/caso-clinico-2_clip_image002.jpg" alt="" width="389" height="304" />
+<img class="alignnone size-full wp-image-100" title="caso-clinico-2_clip_image002" src="http://www.cancrodamama.com/assets/2011/06/caso-clinico-2_clip_image002.jpg" alt="" width="389" height="304" />
 
 O diagnóstico feito a Augusta foi confirmado por uma biopsia de agulha, na qual se faz a recolha de uma pequena porção de tecido por intermédio de uma agulha inserida através da pele.
 
