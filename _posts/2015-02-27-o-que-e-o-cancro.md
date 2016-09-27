@@ -4,7 +4,7 @@ title: O que é o cancro?
 category: cancro da mama
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <p>A palavra «cancro» é um dos poucos termos laicos universalmente aceites e usados pela profissão médica. Uma ideia errada relativa à palavra é a de que descreve uma única doença.</p>
 

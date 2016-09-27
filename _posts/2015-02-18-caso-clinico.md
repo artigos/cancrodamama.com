@@ -4,7 +4,7 @@ title: Caso clínico
 category: auto-exame
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Ao tomar banho de chuveiro, Augusta tacteou um caroço pequeno e firme na parte superior externa do seio direito. Há já alguns anos que tinha por hábito fazer o exame mensal de ambos os seios e estava familiarizada com a sua forma e  palpação. No entanto, nunca tinha dado por aquele caroço, pelo que decidiu consultar o médico de imediato.
 <h1>Dados Pessoais:</h1>

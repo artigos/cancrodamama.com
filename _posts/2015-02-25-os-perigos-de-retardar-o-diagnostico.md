@@ -4,7 +4,7 @@ title: Os perigos de retardar o diagnóstico
 category: cancro da mama
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Maria sempre tivera receio de examinar os seios a fim de detectar modificações. Há algum tempo que tinha a impressão de ter os seios diferentes. Mas não conseguia resolver-se a ir ao médico, pois tinha medo do que ele pudesse encontrar. Um dia, ao vestir-se, reparou que a pele do peito metia para dentro, quando levantava os braços. Depois de semanas de hesitação, decidiu-se a consultar o médico.
 

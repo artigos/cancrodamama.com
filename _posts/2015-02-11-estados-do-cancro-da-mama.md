@@ -4,7 +4,7 @@ title: Estados do cancro da mama
 category: mamografia
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <p>No estadiamento do cancro da mama, tem-se em conta tanto o tamanho do tumor como quaisquer indicações sobre a sua disseminação a partir da localização originária. Consideram-se cinco fases principais, desde o carcinoma in situ, que é a fase mais favorável, à fase IV, a menos favorável. O tratamento depende da fase diagnosticada, que afecta também a taxa de sobrevivência.</p> 
 

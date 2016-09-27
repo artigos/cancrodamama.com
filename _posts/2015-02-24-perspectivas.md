@@ -4,7 +4,7 @@ title: Perspectivas
 category: cancro da mama
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <p>Para o cancro da mama, a taxa de sobrevivência após cinco anos de diagnóstico situa-se desde os 90%, quando o cancro tiver sido removido na sua fase inicial, até um mínimo de 10%, caso tenha disseminado a outras partes do corpo por ocasião do diagnóstico. </p> 
 <h2>Tratamento </h2> 

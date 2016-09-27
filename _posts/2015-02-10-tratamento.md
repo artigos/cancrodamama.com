@@ -4,7 +4,7 @@ title: Tratamento do cancro da mama
 category: tratamento
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <h1>Processos cirúrgicos</h1> 
 <p>Apresentam-se seguidamente quatro operações para remoção do cancro da mama, mas há diversas variações. A operação aconselhada depende do tamanho e da extensão do tumor, bem como do seu aspecto, quando visto ao microscópio. Para tumores até determinada fase, uma operação de grande amplitude não dá maiores hipóteses de sobrevivência do que uma operação mais conservadora. Na actualidade, recomendam-se mais frequentemente procedimentos do tipo da excisão de tumores, acompanhada de radiação.<br />A doente e o médico devem discutir a reconstrução do seio antes de chegarem a uma decisão sobre o género de operação a fazer.</p> 

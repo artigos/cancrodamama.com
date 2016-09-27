@@ -4,7 +4,7 @@ title: Causas e Prevenção
 category: cancro da mama
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <p>O aumento da idade é um factor de risco. Poucos casos de cancro da ma­ma se verificam antes dos 30 anos, ocorrendo a maioria depois dos 50. Antecedentes familiares deste tipo de cancro constituem um factor de risco, embora apenas cerca de 25% das mulheres que o contraem tenham antecedentes familiares da doença. Uma mulher que nunca foi mãe corre risco maior, bem como a que tenha tido o seu primeiro filho depois dos 30 anos. É igualmente significativo o intervalo entre o início da menstruação e a primeira gravidez completa. Uma mulher cuja primeira menstruação tenha surgido muito cedo e cuja primeira gravidez completa se tenha verificado, por exemplo, após os 20 pode incorrer num risco superior. Além disso, considera-se ainda que correm risco agravado as mulheres que foram submetidas a radioterapia ainda jovens, bem como as que tiveram uma menopausa tardia. </p> 
 <p>Há estudos que provam que os contraceptivos orais aumentam ligeiramente o risco de cancro da mama, enquanto outros têm demonstrado que não existe qualquer ligação entre ambos. A maternidade no início da idade adulta parece constituir um factor de protecção. As mulheres cuja primeira gravidez ocorre mais tarde ou que não chegam a ter filhos parece correrem um risco ligeiramente superior.</p> 

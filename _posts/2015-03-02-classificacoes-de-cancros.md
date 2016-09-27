@@ -4,7 +4,7 @@ title: Classificações de cancros
 category: cancro da mama
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os numerosos e diferentes tipos de cancro recebem nomes específicos, que quase sempre incluem o nome do tecido ou órgão onde tiveram origem. Em adição a esta classificação, todos os cancros podem ser divididos em três grupos principais, que se descrevem, em seguida, de acordo com o tecido de origem.
 <h1>Carcinomas</h1>

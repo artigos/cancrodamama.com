@@ -4,7 +4,7 @@ title: Inspeção manual
 category: auto-exame
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <img class="alignnone size-full wp-image-84" title="inspecao-manual" src="http://www.cancrodamama.com/assets/2011/06/inspecao-manual.jpg" alt="" width="450" height="292" />
 
@@ -12,14 +12,14 @@ Deite-se de costas, com uma almofada ou uma toalha dobrada sob um ombro, e o bra
 <table border="0" cellspacing="5" cellpadding="10">
 <tbody>
 <tr>
-<td bgcolor="#edeeef"><img class="alignnone size-full wp-image-85" title="inspecao-manual_1" src="http://www.cancrodamama.com/assets/2011/06/inspecao-manual_1.jpg" alt="" width="114" height="132" /></td>
-<td valign="top" bgcolor="#edeeef">
+<td bgcolor="# edeeef"><img class="alignnone size-full wp-image-85" title="inspecao-manual_1" src="http://www.cancrodamama.com/assets/2011/06/inspecao-manual_1.jpg" alt="" width="114" height="132" /></td>
+<td valign="top" bgcolor="# edeeef">
 <h2>Técnica</h2>
 Faça  pressão com suavidade, fazendo pequenos movimentos circulares do diâmetro de  uma moeda pequena, procurando descobrir algum espessamento dos tecidos ou  caroço. Desloque gradualmente a mão numa série de circulos em redor do seio,  até ter tacteado todo o seio.</td>
 </tr>
 <tr>
-<td bgcolor="#edeeef"><img class="alignnone size-full wp-image-86" title="inspecao-manual_2" src="http://www.cancrodamama.com/assets/2011/06/inspecao-manual_2.jpg" alt="" width="114" height="132" /></td>
-<td valign="top" bgcolor="#edeeef">
+<td bgcolor="# edeeef"><img class="alignnone size-full wp-image-86" title="inspecao-manual_2" src="http://www.cancrodamama.com/assets/2011/06/inspecao-manual_2.jpg" alt="" width="114" height="132" /></td>
+<td valign="top" bgcolor="# edeeef">
 <h2>Para  seios grandes</h2>
 Fazer  pequenos movimentos circulares a partir da posição das 12 horas, para baixo e  em direcção ao mamilo e para fora e em direcção à 1 hora.
 

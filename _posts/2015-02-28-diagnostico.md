@@ -4,7 +4,7 @@ title: Diagnóstico
 category: cancro da mama
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Todos os caroços que surjam na mama deverão ser suspeitos de ter origem cancerosa, embora a maioria não o seja; na realidade, cerca de quatro em cada cinco são benignos. A Sociedade Americana do Cancro aconselha que as mulheres com mais de 20 anos deverão realizar mensalmente o auto-exame das mamas.
 

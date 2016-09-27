@@ -4,7 +4,7 @@ title: Deteção do Cancro da Mama
 category: cancro da mama
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <p>Procure imediatamente o seu médico se verificar em si algum dos seguintes sintomas:</p>
 

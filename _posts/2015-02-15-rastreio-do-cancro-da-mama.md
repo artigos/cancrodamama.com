@@ -4,7 +4,7 @@ title: Rastreio do cancro da mama
 category: auto-exame
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <p>Os resultados do rastreio do cancro da mama têm sido encorajantes. Num estudo realizado, 20000 mulheres de 40 a 64 anos foram examinadas por médicos e realizaram mamografia (raios X). Dez anos após o início do estudo, a mortalidade para o cancro da mama entre as mulheres observadas foi reduzida em cerca de 25%, em comparação a um grupo equivalente de mulheres não observadas: houve 146 mortes devidas a cancro da mama no grupo objecto de rastreio e 191 mortes pela mesma causa num grupo não objecto de rastreio.</p> 
 <p>Cerca de um terço dos cancros da mama detectados por intermédio da mamografia encontravam-se em fase de evolução inicial.</p> 

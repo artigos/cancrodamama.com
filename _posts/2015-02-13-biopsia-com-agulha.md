@@ -4,7 +4,7 @@ title: Biopsia com agulha
 category: mamografia
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <img src="http://www.cancrodamama.com/assets/2011/06/biopsia-com-agulha_clip_image002.jpg" alt="" title="biopsia-com-agulha_clip_image002" width="413" height="255" class="alignnone size-full wp-image-143" />
 

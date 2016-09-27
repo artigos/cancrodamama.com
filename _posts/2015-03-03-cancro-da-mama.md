@@ -4,7 +4,7 @@ title: Introdução
 category: cancro da mama
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <img class="size-full wp-image-36 alignleft" style="margin-right: 15px;" title="cancro-da-mama" src="{{ site.url }}/assets/2011/06/cancro-da-mama1.png" alt="" width="350" height="498" />
 

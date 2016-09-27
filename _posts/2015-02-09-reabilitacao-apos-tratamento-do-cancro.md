@@ -4,7 +4,7 @@ title: Reabilitação após tratamento do cancro
 category: tratamento
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <p>Quase todos os doentes que foram tratados de cancro precisam de uma forma de reabilitação, a qual depende de muitos factores, incluindo a localização e a fase do cancro e o tipo de tratamento seguido. O objectivo é sempre permitir que o doente volte a um modo de vida tão normal quanto possível.</p> 
 <p>Deste modo, não só se devem satisfazer as necessidades físicas do doente mas também as psicológicas, sociais e vocacionais. Muitos programas de reabilitação e das organizações de auto-auxílio têm melhorado a qualidade de vida dos doentes com cancro. </p> 

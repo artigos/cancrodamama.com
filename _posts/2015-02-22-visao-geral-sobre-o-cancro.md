@@ -4,7 +4,7 @@ title: Visão geral sobre o cancro
 category: cancro da mama
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <p>A consciencialização das pessoas sobre os factores ambientais potencialmente nocivos é muito significativa na prevenção do cancro. Sol forte, fumo de tabaco, álcool em excesso, radiação nuclear e exposição a substâncias como o amianto, o crómio, o níquel e o cloreto de polivinilo são factores sobre os quais determinadas pessoas, a sociedade em geral, exercem um certo grau de controlo. </p> 
     <p>O conhecimento da doença é igualmente importante. O auto-exame dos seios e dos testículos e procedimentos de controlo, como o teste do esfregaço do colo do útero (Papanicolau) e a mamografia, são essenciais para a detecção de cancros em evolução enquanto estes forem suficientemente pequenos para permitir a cura. Por outro lado, toda a gente deve ter conhecimento dos sintomas iniciais que indicam o cancro.</p> 

@@ -4,7 +4,7 @@ title: Viver com cancro
 category: tratamento
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <h1>Como reagem as pessoas?</h1> 
 <p>Uma pessoa pode reagir a um diagnóstico de cancro das mais diversas maneiras, algumas das quais se descrevem seguidamente. Não existe atitude «correcta» para com um diagnóstico de cancro. Cada um responderá do modo psicologicamente adequado à sua personalidade e às circunstâncias.</p> 
